@@ -15,7 +15,7 @@
   4.新垣结衣
   5.石原里美
 
-  ````javascript
+  ```javascript
   console.log（'HELLO'）
   ```
   
